@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-Myself, Aadarsh Mahesh K, I am a first-year BTech Electronics and Computer undergrad at Amrita Vishwa Vidyapeetham, Amritapuri campus. I know beginner-level coding and my preferred language is Python. My hobbies inclube playing basketball and hitting the gym ,Also i am really commited on putting the hardwork and give my best on every work i take on.
+I'm R Harishanker, I'm a 1st year BTech Electronics and Computer Engineering (EAC) undergrad at Amrita Vishwa Vidyapeetham, Amritapuri campus. I know starter-level coding and my preferred language is Python. 
 ## **Why should we choose you?**
 
 I believe in commitment, consistency, and discipline. During the Praveshan tasks, I’ve done my best to post updates regularly and stay on top of my work. I’m eager to learn and adapt to new technologies. My passion for exploring new ideas keeps me motivated and always learning. I’m confident I can be a valuable asset to the club, and I’m ready to put in the hard hours with pleasure.
@@ -25,7 +25,7 @@ My statistics is as shown :
 
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| Task-00   | | |
+| Task-00   | Installing Linux | Completed |
 | Task-01   | | |
 | Task-02   | | |
 | Task-03   | | |
