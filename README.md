@@ -1,4 +1,3 @@
-# amfoss-tasks
 # Amfoss-tasks
 
 ## INTRODUCTION
@@ -26,17 +25,17 @@ My statistics is as shown :
 
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| Task-00   | [Install Linux](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-00) | Completed |
-| Task-01   | [Type Maestro](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-01) | Completed |
-| Task-02   | [Terminal Chaos](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-02) | Completed |
-| Task-03   | [Hello, World!](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-03) | Completed |
-| Task-04   | [Gopal and his PagePal](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-04)  | Completed |
-| Task-05   | [TerminalTrolly](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-05) | Completed |
-| Task-06   | [OpenDocs](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-06) | Completed |
-| Task-07   | [Pirate's Dilemma](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-07) | Partially done |
-| Task-08   | [Blog Burst](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-08) | Completed |
-| Task-09   | [HERO-DEX!](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-09)| Not attempted |
-| Task-10   | [Operation Pixel Merge](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-10)| Completed |
+| Task-00   | | |
+| Task-01   | | |
+| Task-02   | | |
+| Task-03   | | |
+| Task-04   | | |
+| Task-05   | | |
+| Task-06   | | |
+| Task-07   | | |
+| Task-08   | | |
+| Task-09   | | |
+| Task-10   | | |
 
 
 
